@@ -38,9 +38,9 @@ _**Chức năng**_
 
 
 
-[**Bùi Lương Hiếu**](https://github.com/Hieu1011)
-[**Trần Dư Gia Bảo**](https://github.com/baonehe)
-[**Bùi Đức Hoàng Nhật**](https://github.com/HoangNhat212)
+- [**Bùi Lương Hiếu**](https://github.com/Hieu1011)
+- [**Trần Dư Gia Bảo**](https://github.com/baonehe)
+- [**Bùi Đức Hoàng Nhật**](https://github.com/HoangNhat212)
 
 >**Sinh viên năm 2 khoa Công Nghệ Phần Mềm - Trường đại học Công Nghệ Thông Tin**
 
